@@ -1,9 +1,8 @@
 # EmbeddedML
 In workshop/
+
 git clone https://github.com/ARM-software/ML-examples.git
-
 git clone https://github.com/hromi/SMILEsmileD.git
-
 git clone https://github.com/openmv/openmv.git
 
 In run/
@@ -21,4 +20,5 @@ make check
 sudo make install
 sudo ldconfig # refresh shared library cache.
 protoc -h
+
 
