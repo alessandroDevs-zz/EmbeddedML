@@ -4,6 +4,9 @@ Work in progress...
 
 ![image](https://user-images.githubusercontent.com/42873333/45641345-1e952700-baad-11e8-8d45-bc8b053aa5b2.png)
 
+Smile model: https://github.com/openmv/openmv/blob/master/ml/cmsisnn/models/smile/smile_train_test.prototxt
+to get image go to: http://ethereon.github.io/netscope/#/editor
+
 # EmbeddedML
 In workshop/
 
