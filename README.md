@@ -7,6 +7,10 @@ Work in progress...
 Smile model: https://github.com/openmv/openmv/blob/master/ml/cmsisnn/models/smile/smile_train_test.prototxt
 to get image go to: http://ethereon.github.io/netscope/#/editor
 
+Dropout: https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5
+Rectified Linear Unit (ReLU): https://www.kaggle.com/dansbecker/rectified-linear-units-relu-in-deep-learning
+Inp: Inner product or fully connected layer
+
 # EmbeddedML
 In workshop/
 
