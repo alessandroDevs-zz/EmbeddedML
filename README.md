@@ -14,6 +14,8 @@ Inp: Inner product or fully connected layer
 -------------------
 Setup
 
+Install Ubuntu 18.04.1 LTS
+
 # EmbeddedML
 
 ```
@@ -33,7 +35,7 @@ git clone https://github.com/openmv/openmv.git
 sudo apt install python-pip
 
 
-pip install --upgrade pip -t .
+(pip install --upgrade pip -t .)
 
 -
 pip install opencv-python --user
@@ -54,13 +56,17 @@ sudo apt-get install libpng12-dev
 
 -
 
-pip install imgaug -t .
+pip install imgaug (-t .)
 
-pip install tqdm -t .
+pip install tqdm (-t .)
 
 sudo add-apt-repository ppa:maarten-fonville/protobuf
 
 sudo apt-get update
+
+---
+Install caffe
+https://gist.github.com/nikitametha/c54e1abecff7ab53896270509da80215
 
 ---------
 Blog: https://community.arm.com/innovation/b/blog/posts/low-power-deep-learning-on-openmv-cam
@@ -84,6 +90,10 @@ Augment number of images
 ```
 
 ```
+# Quantizing
+
+
+sudo apt install caffe-cpu
 
 
 ------------------------------
