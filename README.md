@@ -11,6 +11,9 @@ Dropout: https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learni
 Rectified Linear Unit (ReLU): https://www.kaggle.com/dansbecker/rectified-linear-units-relu-in-deep-learning
 Inp: Inner product or fully connected layer
 
+-------------------
+Setup
+
 # EmbeddedML
 In workshop/
 
@@ -33,6 +36,10 @@ pip install tqdm -t .
 sudo add-apt-repository ppa:maarten-fonville/protobuf
 
 sudo apt-get update
+
+---------
+Blog: https://community.arm.com/innovation/b/blog/posts/low-power-deep-learning-on-openmv-cam
+
 
 ------------------------------
 
