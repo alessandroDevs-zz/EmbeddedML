@@ -15,15 +15,23 @@ Inp: Inner product or fully connected layer
 Setup
 
 # EmbeddedML
-In workshop/
+
+```
+mkdir repos
+```
+In repos/
+
+```
 
 git clone https://github.com/ARM-software/ML-examples.git
 
 git clone https://github.com/hromi/SMILEsmileD.git
 
 git clone https://github.com/openmv/openmv.git
+```
 
-In run/
+sudo apt install python-pip
+
 
 pip install --upgrade pip -t .
 
