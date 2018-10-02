@@ -31,10 +31,13 @@ pip install imgaug -t .
 pip install tqdm -t .
 
 sudo add-apt-repository ppa:maarten-fonville/protobuf
+
 sudo apt-get update
 
+------------------------------
 
 Deprecated!!!!
+
 Protobuff install
 
 git clone https://github.com/google/protobuf.git
