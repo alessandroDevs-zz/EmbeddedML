@@ -37,11 +37,13 @@ pip install opencv-python==3.4.2.17 -t .
 -
 
 -
+
 sudo apt-get install libfreetype6-dev
 
 sudo apt-get install pkg-config
 
 sudo apt-get install libpng12-dev
+
 -
 
 pip install imgaug -t .
