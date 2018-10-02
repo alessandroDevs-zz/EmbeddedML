@@ -27,7 +27,22 @@ In run/
 
 pip install --upgrade pip -t .
 
+-
+pip install opencv-python --user
+
+or
+
 pip install opencv-python==3.4.2.17 -t .
+
+-
+
+-
+sudo apt-get install libfreetype6-dev
+
+sudo apt-get install pkg-config
+
+sudo apt-get install libpng12-dev
+-
 
 pip install imgaug -t .
 
@@ -39,6 +54,26 @@ sudo apt-get update
 
 ---------
 Blog: https://community.arm.com/innovation/b/blog/posts/low-power-deep-learning-on-openmv-cam
+
+---------
+# Prepare Dataset
+
+We will be using dataset in "SMILEsmileD/SMILEs/":
+- negatives
+- positives
+
+check number of images
+
+```
+ls SMILEsmileD/SMILEs/negatives/negatives7/. -1 | wc -l
+ls SMILEsmileD/SMILEs/positives/positives7/. -1 | wc -l
+```
+
+Augment number of images
+
+```
+
+```
 
 
 ------------------------------
