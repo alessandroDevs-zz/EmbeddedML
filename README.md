@@ -8,6 +8,23 @@ This tutorial we will walk you through the deployment of a Caffe model to an ult
 <img src="https://user-images.githubusercontent.com/42873333/45641403-543a1000-baad-11e8-82cd-893eab810436.jpg" width="50%" height="50%">
 </p>
 
+# Setup
+
+### With Virtual Machine
+
+1. Install [Virtual Box](https://www.virtualbox.org/)
+2. Download [Image](https://drive.google.com/file/d/1nCqNn701zxBBlnXhT1orifM3NQavNJUW/view?usp=sharing)
+3. Import image - follow this [guide](https://www.maketecheasier.com/import-export-ova-files-in-virtualbox/)
+4. Log into machine
+
+### Linux
+
+
+
+
+
+Insta
+
 ![image](https://user-images.githubusercontent.com/42873333/45641345-1e952700-baad-11e8-8d45-bc8b053aa5b2.png)
 
 Smile model: https://github.com/openmv/openmv/blob/master/ml/cmsisnn/models/smile/smile_train_test.prototxt
