@@ -4,18 +4,22 @@
 
 Ubuntu 18.04.1 LTS
 
------
+---
 
-mkdir repos
-In repos/
+### Setup
 
 ```
+mkdir repos
+
+cd repos
 
 git clone https://github.com/ARM-software/ML-examples.git
 
 git clone https://github.com/hromi/SMILEsmileD.git
 
 git clone https://github.com/openmv/openmv.git
+
+cd ../
 
 sudo apt install python-pip
 
@@ -29,10 +33,7 @@ pip install imgaug
 
 pip install tqdm 
 
-sudo add-apt-repository ppa:maarten-fonville/protobuf
+```
 
-sudo apt-get update
+Install caffe following the following guide  https://gist.github.com/nikitametha/c54e1abecff7ab53896270509da80215
 
-Install caffe https://gist.github.com/nikitametha/c54e1abecff7ab53896270509da80215
-
-Blog: https://community.arm.com/innovation/b/blog/posts/low-power-deep-learning-on-openmv-cam
