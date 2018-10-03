@@ -35,5 +35,5 @@ pip install tqdm
 
 ```
 
-Install caffe following the following guide  https://gist.github.com/nikitametha/c54e1abecff7ab53896270509da80215
+Install caffe following the following (guide)[https://gist.github.com/nikitametha/c54e1abecff7ab53896270509da80215]  
 
