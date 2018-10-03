@@ -1,6 +1,6 @@
 ## Linux Setup 
 
-#### Prerequisites 
+### Prerequisites 
 
 Ubuntu 18.04.1 LTS
 
