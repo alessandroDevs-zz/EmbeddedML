@@ -8,6 +8,9 @@ This tutorial we will walk you through the deployment of a Caffe model to an ult
 <img src="https://user-images.githubusercontent.com/42873333/45641403-543a1000-baad-11e8-82cd-893eab810436.jpg" width="50%" height="50%">
 </p>
 
+
+Blog: https://community.arm.com/innovation/b/blog/posts/low-power-deep-learning-on-openmv-cam
+
 # Setup
 
 ### With Virtual Machine
