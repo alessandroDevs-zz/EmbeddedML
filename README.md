@@ -1,4 +1,9 @@
 Work in progress...
+
+# Deploying a Caffe Model on OpenMV using CMSIS-NN
+
+This tutorial we will walk you through the deployment of a Caffe model to an ultra low-cost and low-powered Cortex-M. For this tutorial will be using the OpenMV board, developed by two (Arm Innovators)[https://www.arm.com/why-arm/innovation/meet-innovators], Ibrahim Abdalkader and Kwabena W. Agyeman.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/42873333/45641403-543a1000-baad-11e8-82cd-893eab810436.jpg" width="50%" height="50%">
 </p>
