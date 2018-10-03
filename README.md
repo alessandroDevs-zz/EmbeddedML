@@ -1,6 +1,6 @@
 Work in progress...
 
-![new-cam-v4-angle-hero-web](https://user-images.githubusercontent.com/42873333/45641403-543a1000-baad-11e8-82cd-893eab810436.jpg){:height="50%" width="50%"}
+![new-cam-v4-angle-hero-web](https://user-images.githubusercontent.com/42873333/45641403-543a1000-baad-11e8-82cd-893eab810436.jpg){:height="20%" width="20%"}
 
 ![image](https://user-images.githubusercontent.com/42873333/45641345-1e952700-baad-11e8-8d45-bc8b053aa5b2.png)
 
