@@ -43,14 +43,3 @@ pip install tqdm
 Install caffe following the following [guide](https://gist.github.com/nikitametha/c54e1abecff7ab53896270509da80215)
 
 Download data [files](https://drive.google.com/drive/folders/1DM8T9NnDVUDFK3gC9GvUqfjOtUp7rAEP?usp=sharing) and place them in `repos/openmv/ml/cmsisnn/models/smile/smile_database/`
-
-
------
-
-Insta
-
-
-
-Dropout: https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5
-Rectified Linear Unit (ReLU): https://www.kaggle.com/dansbecker/rectified-linear-units-relu-in-deep-learning
-Inp: Inner product or fully connected layer
