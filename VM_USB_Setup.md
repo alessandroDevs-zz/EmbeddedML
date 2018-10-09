@@ -1,5 +1,5 @@
 In the virtual machine:
-- Select Devices -> USB -> OpenMV
+  - Select Devices -> USB -> OpenMV
   
 <img src="https://user-images.githubusercontent.com/42873333/46686411-2188c080-cbf0-11e8-9d83-19b839f91f77.png" width="50%" height="50%">
   - Select Devices -> USB -> USB Settings...
